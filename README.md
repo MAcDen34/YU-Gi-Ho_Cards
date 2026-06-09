@@ -173,3 +173,5 @@ If you enjoyed this project, give it a star on GitHub!
 ---
 
 **Made with ❤️ for Duelists everywhere**
+
+Done
